@@ -13,7 +13,7 @@ This project uses JavaScript to generate a random password. Criteria: Password l
 * [Questions](#questions)
 
 ## Installation 
-The user should clone the repository from GitHub. This application requires Node.js, Express.js, and Sequelize. To connect to the database run mysql -u root -p and enter password from .env file. Then source the schema.sql. To seed the file run npm run seed. Finally to connect to the server run npm start. 
+No installation required.
 
 ## Usage 
 This application will allow users generate a random password based on the criteria they select.<br>
