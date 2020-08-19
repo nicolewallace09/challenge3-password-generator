@@ -46,7 +46,7 @@ var generatePassword = function() {
     }
 
     if (lowCasePrompt === false && upCasePrompt === false && specialPrompt === false && numPrompt === false) {
-        window.alert('Must choose a character');
+        window.alert('Invalid. Must choose a character');
         return; 
     }
 
